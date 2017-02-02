@@ -1,0 +1,40 @@
+.center {
+    text-align: center;
+    border: 3px solid #ADD8E6;
+    margin: 10px;
+}
+
+.header-font-1 {
+    font-family: "Georgia", Georgia, Serif;
+    text-align: center;
+}
+
+.header-font-2 {
+    font-family: "Georgia", Georgia, Serif;
+    color: grey;
+    text-align: center;
+}
+
+.page {
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid black;
+  display: flex;
+}
+
+.item {
+  padding: 20px;
+  border: 15;
+  border: 3px solid #ADD8E6;
+}
+
+.height-50 {
+  height: 50%;
+  margin: auto;
+}
+
+.img {
+  margin: auto;
+  height: 100%;
+  width: 100%;
+}
